@@ -1,0 +1,49 @@
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+background-image: url(https://image.freepik.com/foto-gratis/imagen-arboles-nevados-concepto-navidad-ano-nuevo-fondos-pantalla-alta-resolucion-tecnica-mixta_392761-4464.jpg?w=2000);background-size: cover;
+
+}
+header{
+
+    border: solid 5px black ;
+    background-color: rgb(229, 218, 218); 
+    text-align: center;
+}
+
+.botones{ 
+   
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    
+    
+
+display: flex;
+justify-content: space-around;
+}
+.imagenes{
+    padding: auto;
+    display: flex;
+    margin: auto;
+justify-content: space-around;
+}
+
+.Despidos{
+    text-align: justify;
+    background-color: beige;
+}
+.CHAT{
+    text-align: start;
+    background-color: beige;
+}
+footer{
+
+   display: flex;
+  justify-content: center;
+    background-color: darkgrey;
+   
+}
